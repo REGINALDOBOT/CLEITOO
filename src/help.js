@@ -8,8 +8,8 @@ const help = (prefix) => {
   ❏ Prefix: 「  ${prefix}  」
   ❏ Dono : DANTE
   ❏ Grupo Do Dono Do Bot https://chat.whatsapp.com/Ly2Po8dr5YwJUFoVjeG8rh
-
-◪ *SOBRE*
+   ©como instalar o BOT https://youtu.be/4cjhlXo9aGo
+◪ * SOBRE *
   │
   ├─ ❏ ${prefix}info
   ├─ ❏ ${prefix}blocklist
